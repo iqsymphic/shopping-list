@@ -6,7 +6,7 @@ $(function () {
 
         $('.shopping-list').append(
             `<li>
-                <span class = "shopping-item">${listItem}</span>
+                <span class = "shopping-item">${shoppingList}</span>
                 <div class = "shopping-item-controls">
                     <button class = "shopping-item-toggle">
                         <span class = "button-label">check</span>
